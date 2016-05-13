@@ -1,4 +1,5 @@
 {
+  "name":"MyAwesomeLibrary.FSharp",
   "version": "1.0.0-*",
   "buildOptions": {
     "compilerName": "fsc",

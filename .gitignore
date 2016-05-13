@@ -26,3 +26,4 @@ Thumbs.db
 _ReSharper*/
 [Tt]est[Rr]esult*
 project.lock.json
+.vs/

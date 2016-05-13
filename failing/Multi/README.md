@@ -17,17 +17,17 @@ This will fail to restore.  Here's the repro.
 Errors in C:\Users\phcart\Documents\repos\paynoattentiontothis\failing\Multi\MyAwesomeLibrary.CSharp\src\CSharp\project.json
     Unable to resolve 'MyAwesomeLibrary.Core (>= 1.0.0)' for '.NETStandard,Version=v1.5'.
 
-Errors in C:\Users\phcart\Documents\repos\paynoattentiontothis\failing\Multi\MyAwesomeLibrary.FSharp\src\FSharp\project.json
-    Unable to resolve 'MyAwesomeLibrary.Core (>= 1.0.0)' for '.NETStandard,Version=v1.5'.
-
-Errors in C:\Users\phcart\Documents\repos\paynoattentiontothis\failing\Multi\MyAwesomeLibrary.Core\test\Core.Tests\project.json
-    Unable to resolve 'MyAwesomeLibrary.Core (>= 1.0.0)' for '.NETCoreApp,Version=v1.0'.
-
 Errors in C:\Users\phcart\Documents\repos\paynoattentiontothis\failing\Multi\MyAwesomeLibrary.CSharp\test\CSharp.Tests\project.json
     Unable to resolve 'MyAwesomeLibrary.CSharp (>= 1.0.0)' for '.NETCoreApp,Version=v1.0'.
 
 Errors in C:\Users\phcart\Documents\repos\paynoattentiontothis\failing\Multi\MyAwesomeLibrary.FSharp\test\FSharp.Tests\project.json
     Unable to resolve 'MyAwesomeLibrary.FSharp (>= 1.0.0)' for '.NETCoreApp,Version=v1.0'.
+
+Errors in C:\Users\phcart\Documents\repos\paynoattentiontothis\failing\Multi\MyAwesomeLibrary.Core\test\Core.Tests\project.json
+    Unable to resolve 'MyAwesomeLibrary.Core (>= 1.0.0)' for '.NETCoreApp,Version=v1.0'.
+
+Errors in C:\Users\phcart\Documents\repos\paynoattentiontothis\failing\Multi\MyAwesomeLibrary.FSharp\src\FSharp\project.json
+    Unable to resolve 'MyAwesomeLibrary.Core (>= 1.0.0)' for '.NETStandard,Version=v1.5'.
 
 NuGet Config files used:
     C:\Users\phcart\Documents\repos\paynoattentiontothis\failing\Multi\NuGet.Config

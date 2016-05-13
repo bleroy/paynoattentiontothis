@@ -1,0 +1,9 @@
+Restore and build the src/Library project
+Try to restore the test/testlibrary project
+
+Expected: works fine
+Actual:
+Errors in C:\Temp\Brett\golden\test\testlibrary\project.json
+    Package Library 1.0.0 is not compatible with netcoreapp1.0 (.NETCoreApp,Version=v1.0). Package Library 1.0.0 support
+s: net45 (.NETFramework,Version=v4.5)
+    One or more packages are incompatible with .NETCoreApp,Version=v1.0.

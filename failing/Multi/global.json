@@ -1,0 +1,7 @@
+{
+	"projects": [
+		"MyAwesomeLibrary.Core",
+		"MyAwesomeLibrary.CSharp",
+		"MyAwesomeLibrary.FSharp"
+	]
+}

@@ -1,7 +1,10 @@
 {
   "testRunner": "xunit",
   "dependencies":{
-    "MyAwesomeLibrary.FSharp":"1.0.0",
+    "MyAwesomeLibrary.Core": {
+        "version": "1.0.0",
+        "target": "project"
+    },
     "Microsoft.NETCore.App": {
         "type": "platform",
         "version": "1.0.0-rc2-3002543"

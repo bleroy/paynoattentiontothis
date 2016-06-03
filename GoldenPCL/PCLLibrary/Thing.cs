@@ -1,6 +1,4 @@
-﻿using System;
-
-namespace Library
+﻿namespace PCLLibrary
 {
     public class Thing
     {

@@ -28,3 +28,4 @@ _ReSharper*/
 project.lock.json
 .vs/
 packages
+.vscode
